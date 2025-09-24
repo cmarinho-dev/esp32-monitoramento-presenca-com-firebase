@@ -7,7 +7,7 @@
 #define WIFI_PASSWORD  "123"
 
 // ====== FIREBASE SETTINGS ======
-#define FIREBASE_HOST  "conect-sist-default-rtdb.firebaseio.com/motions.json"
+#define FIREBASE_HOST  "conect-sist-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH  "FIREBASE_DATABASE_SECRET_OR_TOKEN"
 
 const int PIR_PIN = 15;
